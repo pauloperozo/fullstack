@@ -1,0 +1,25 @@
+#global {
+	height: 300px;
+	width: 300px;
+	border: 1px solid #ddd;
+	background: #fef1ff;
+	overflow-y: scroll;
+}
+#mensajes {
+	height: auto;
+}
+.texto {
+	padding:4px;
+	background:#fff;
+}
+
+.items {
+    list-style: none;
+    text-align: right;
+	cursor: pointer;
+}
+
+.tachado{
+	text-decoration:line-through;
+	
+}
